@@ -12,9 +12,58 @@
     "main": {
       "type": "hello-world",
       "settings": {}
+    },
+    "1770266043201a35bc": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_8aa0b9b_d8UrMx": {
+          "type": "ai_gen_block_8aa0b9b",
+          "settings": {
+            "logo_text": "Store",
+            "logo_size": 24,
+            "menu_title": "Menu",
+            "menu_link_1_text": "Home",
+            "menu_link_1_url": "",
+            "menu_link_2_text": "Shop",
+            "menu_link_2_url": "",
+            "menu_link_3_text": "About",
+            "menu_link_3_url": "",
+            "menu_link_4_text": "Contact",
+            "menu_link_4_url": "",
+            "menu_link_5_text": "",
+            "menu_link_5_url": "",
+            "hamburger_size": 28,
+            "hamburger_thickness": 3,
+            "hamburger_line_spacing": 6,
+            "hamburger_color": "#333333",
+            "menu_position": "left",
+            "menu_width": 80,
+            "menu_title_size": 20,
+            "menu_item_size": 16,
+            "menu_item_padding": 16,
+            "menu_padding": 20,
+            "header_bg_color": "#FFFFFF",
+            "text_color": "#333333",
+            "menu_bg_color": "#FFFFFF",
+            "menu_text_color": "#333333",
+            "menu_text_hover_color": "#000000",
+            "menu_divider_color": "#E5E5E5",
+            "header_padding": 16,
+            "desktop_breakpoint": 768,
+            "desktop_menu_spacing": 32,
+            "desktop_width_percent": 100
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_8aa0b9b_d8UrMx"
+      ],
+      "settings": {}
     }
   },
   "order": [
-    "main"
+    "main",
+    "1770266043201a35bc"
   ]
 }
