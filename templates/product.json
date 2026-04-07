@@ -12,9 +12,59 @@
     "main": {
       "type": "product",
       "settings": {}
+    },
+    "custom_section_DeAThW": {
+      "type": "custom-section",
+      "blocks": {
+        "group_qzXrYf": {
+          "type": "group",
+          "name": "t:general.column",
+          "settings": {
+            "layout_direction": "group--vertical",
+            "alignment": "flex-start",
+            "padding": 0
+          },
+          "blocks": {
+            "ai_gen_block_fc50e16_Y3w73p": {
+              "type": "ai_gen_block_fc50e16",
+              "settings": {
+                "show_image": false,
+                "show_title": true,
+                "show_description": true,
+                "show_metadata": true,
+                "layout": "row",
+                "alignment": "flex-start",
+                "image_width": 40,
+                "spacing": 30,
+                "content_spacing": 15,
+                "desktop_width_percent": 100,
+                "padding": 20,
+                "border_radius": 0,
+                "image_border_radius": 0,
+                "background_color": "#FFFFFF",
+                "text_color": "#333333",
+                "meta_color": "#666666",
+                "title_size": 24,
+                "text_size": 16,
+                "meta_size": 14
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "ai_gen_block_fc50e16_Y3w73p"
+          ]
+        }
+      },
+      "block_order": [
+        "group_qzXrYf"
+      ],
+      "name": "t:general.custom_section",
+      "settings": {}
     }
   },
   "order": [
-    "main"
+    "main",
+    "custom_section_DeAThW"
   ]
 }

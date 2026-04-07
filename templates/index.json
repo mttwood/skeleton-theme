@@ -42,12 +42,12 @@
             "menu_item_size": 16,
             "menu_item_padding": 16,
             "menu_padding": 20,
-            "header_bg_color": "#FFFFFF",
+            "header_bg_color": "#ffffff",
             "text_color": "#333333",
-            "menu_bg_color": "#FFFFFF",
+            "menu_bg_color": "#ffffff",
             "menu_text_color": "#333333",
             "menu_text_hover_color": "#000000",
-            "menu_divider_color": "#E5E5E5",
+            "menu_divider_color": "#e5e5e5",
             "header_padding": 16,
             "desktop_breakpoint": 768,
             "desktop_menu_spacing": 32,
@@ -60,10 +60,44 @@
         "ai_gen_block_8aa0b9b_d8UrMx"
       ],
       "settings": {}
+    },
+    "1775528367cc238825": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_a011964_Wz79jd": {
+          "type": "ai_gen_block_a011964",
+          "settings": {
+            "heading": "Model measurements",
+            "bust_label": "Bust",
+            "height_label": "Height",
+            "waist_label": "Waist",
+            "hips_label": "Hips",
+            "columns_desktop": "4",
+            "columns_mobile": "2",
+            "desktop_width_percent": 100,
+            "padding": 20,
+            "spacing": 16,
+            "border_radius": 8,
+            "heading_size": 18,
+            "label_size": 12,
+            "value_size": 16,
+            "label_transform": "uppercase",
+            "background_color": "#f9f9f9",
+            "text_color": "#333333",
+            "label_color": "#666666"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_a011964_Wz79jd"
+      ],
+      "settings": {}
     }
   },
   "order": [
     "main",
-    "1770266043201a35bc"
+    "1770266043201a35bc",
+    "1775528367cc238825"
   ]
 }
